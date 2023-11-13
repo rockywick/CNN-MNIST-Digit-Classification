@@ -1,1 +1,1 @@
-# CNN-MNIST-Digit-Classification
+# CNN MNIST Digit Classification
